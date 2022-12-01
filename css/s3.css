@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(195, 236, 223);
+    color: rgb(53, 53, 50);
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer{
+    text-align: center;
+    background-color: aliceblue;
+}
